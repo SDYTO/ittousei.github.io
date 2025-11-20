@@ -14,9 +14,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 去以六月息 # the main title
+title: 数字森林 # the main title
 
-tagline: MsEspeon@随便写写 # it will display as the sub-title
+tagline: 数字森林，五光十色 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A personal blog for recording pieces of thoughts.
